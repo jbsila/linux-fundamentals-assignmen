@@ -1,6 +1,5 @@
 | Ubuntu                 | Fedora           | CentOS                |
 | ---------------------- | ---------------- | --------------------- |
-|
 |Wide software availability|Traditionally used for server environments|Enterprise-level stability|
 |Long-Term Support (LTS) editions every 2 years|new versions released every six months|Being phased out|
 |Uses debian for package management|Uses dnf for package management|Uses rpm and dnf for package management|
